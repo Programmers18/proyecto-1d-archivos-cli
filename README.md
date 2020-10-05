@@ -8,25 +8,25 @@ Para un correcto uso, hay que seguir las instrucciones
 
 * GLOBAL
 ```
-npm install -g file-creator-cli
+npm install -g cretor-archive-terminal
 ```
 
 * LOCAL
 ```
-npm install file-creator-cli
+npm install cretor-archive-terminal
 ```
 
 ### Para usarlo
 * Global
-ejecutamos **file-creator-cli
+ejecutamos **cretor-archive-terminal
 * Local
 Añadimos en el package.json
 ```
 "scripts": {
-    "file-creator-cli": "./node_modules/.bin/file-creator-cli"
+    "cretor-archive-terminal": "./node_modules/.bin/cretor-archive-terminal"
 }
 ```
 Ejecutamos con 
 ```
-npm run file-creator-cli
+npm run cretor-archive-terminal
 ```

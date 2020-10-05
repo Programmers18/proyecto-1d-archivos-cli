@@ -1,5 +1,5 @@
 {
-  "name": "file-creator-cli",
+  "name": "cretor-archive-terminal",
   "version": "1.0.0",
   "description": "Proyecto CLI para generar archivos de forma rapida y facil",
   "main": "index.js",
