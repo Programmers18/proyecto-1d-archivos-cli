@@ -1,0 +1,35 @@
+{
+  "name": "file-creator-cli",
+  "version": "1.0.0",
+  "description": "Proyecto CLI para generar archivos de forma rapida y facil",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Programmers18/proyecto-1d-archivos-cli.git"
+  },
+  "keywords": [
+    "rb",
+    "js",
+    "kt",
+    "ts",
+    "java",
+    "cli generator",
+    "crear archivos"
+  ],
+  "author": "Jonny D. Lezcano <jonnyda1811@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Programmers18/proyecto-1d-archivos-cli/issues"
+  },
+  "homepage": "https://github.com/Programmers18/proyecto-1d-archivos-cli#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "figlet": "^1.5.0",
+    "inquirer": "^7.3.3",
+    "shelljs": "^0.8.4"
+  },
+  "bin": "./index.js"
+}
